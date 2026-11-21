@@ -40,3 +40,7 @@ See `models/results.csv` (F1, AUC, recall on held-out *unknown* attacks, latency
 ## Notes
 The Vercel site is a **demo** that scores simulated flows. Packet capture runs on the Pi, not on Vercel.
 Train and deploy with the same `scikit-learn` version (pinned in `requirements.txt`).
+
+## Credits
+
+Based on the original project by [pannalapranith-006](https://github.com/pannalapranith-006/IoTM-anamoly-IDS).
