@@ -1,8 +1,8 @@
 # Lightweight ML Anomaly Intrusion Detection System for IoMT Networks
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)](https://YOUR-PROJECT.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?logo=vercel)](https://iomt-anomaly-ids.vercel.app)
 
-🔗 **Live demo:** [https://YOUR-PROJECT.vercel.app](https://io-tm-anamoly-ids.vercel.app/)
+🔗 **Live demo:** [https://iomt-anomaly-ids.vercel.app](https://iomt-anomaly-ids.vercel.app)
 
 An anomaly/novelty-based IDS that learns *normal* behaviour of Internet-of-Medical-Things traffic and flags
 deviations, including unknown attacks. Six detectors are compared (OCSVM, LOF, KDE, GMM, MCD, Isolation Forest)
